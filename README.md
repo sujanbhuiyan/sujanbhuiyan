@@ -9,7 +9,6 @@ I run [**Gigaverse**](https://gigaverse.global), a venture studio, and its portf
 - [**GigaCommerce**](https://gigacommerce.co) — *Everywhere AI recommends products.*
 - [**Top Dentistry**](https://topdentistry.co) — *Fill every chair.*
 - [**FormBridge**](https://formbridge.co) — *The OS for your global company.*
-- [**VectorWiz**](https://vectorwiz.com)
 
 ### Writing
 
